@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0e54f8a.css",
+    "main.js": "/static/js/main.fbe57be4.js",
+    "static/media/net.png": "/static/media/net.478db8b9d4b3715ece1e.png",
+    "static/media/char.png": "/static/media/char.ec3eb76f8c7078b5aa0a.png",
+    "static/media/hard.png": "/static/media/hard.d058367c14b25a4c8420.png",
+    "static/media/Cad.png": "/static/media/Cad.692c1a3973730c4d4a35.png",
+    "static/media/illustration.png": "/static/media/illustration.2ba68efd821c17ba0353.png",
+    "static/media/threed.png": "/static/media/threed.2b2bd690217da44714d3.png",
+    "static/media/page.png": "/static/media/page.bf03fa7b4ca565d7437b.png",
+    "static/media/IId.png": "/static/media/IId.780235a6dec734aa2757.png",
+    "static/media/caa.png": "/static/media/caa.566d495ee3fa9b5a9c22.png",
+    "static/media/can.png": "/static/media/can.650b911525d4dd4fc5a9.png",
+    "static/media/erp.png": "/static/media/erp.b0698384de7184e71a1b.png",
+    "static/media/About-Us-banner.png": "/static/media/About-Us-banner.d85b9362d0d956d1964d.png",
+    "static/media/graph.png": "/static/media/graph.136337c337830bd2e94c.png",
+    "static/media/iiid.png": "/static/media/iiid.abb57aa5201c739094d4.png",
+    "static/media/dev.png": "/static/media/dev.c705265c680c1693961b.png",
+    "static/media/java.jpg": "/static/media/java.293a425a36f1bf8bafd8.jpg",
+    "static/media/payal sharma.jpeg": "/static/media/payal sharma.3bf572008ab62b3943d8.jpeg",
+    "static/media/php1.png": "/static/media/php1.a70ee658b6a6d05f034f.png",
+    "static/media/kirti jaiswal.jpeg": "/static/media/kirti jaiswal.d01bbbf0f33aadf1cd90.jpeg",
+    "static/media/cnew.jpg": "/static/media/cnew.8a1695b19f622651b3fb.jpg",
+    "static/media/dsa.jpg": "/static/media/dsa.f42c59f97bb7cdb39259.jpg",
+    "static/media/c.jpg": "/static/media/c.8e3f5136d5ad7febc15f.jpg",
+    "static/media/logo.png": "/static/media/logo.8f4a2f7b8a3dde80bb31.png",
+    "static/media/Silver partner.jpeg": "/static/media/Silver partner.bfa4614317550029e134.jpeg",
+    "static/media/adv.png": "/static/media/adv.3f6ea65cbdf60806b452.png",
+    "static/media/php.jpg": "/static/media/php.17f2f77832f9106f15dd.jpg",
+    "static/media/dishaimage.jpg": "/static/media/dishaimage.1ef1853781c27fc2557a.jpg",
+    "index.html": "/index.html",
+    "main.d0e54f8a.css.map": "/static/css/main.d0e54f8a.css.map",
+    "main.fbe57be4.js.map": "/static/js/main.fbe57be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e54f8a.css",
+    "static/js/main.fbe57be4.js"
+  ]
+}

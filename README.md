@@ -18,6 +18,6 @@ https://swati-patel.netlify.app/
 4. npm run start
 
 ## Screenshot
-![screenshot](dishacomputer.png)
+![screenshot](dishacomputers.png)
 
 Author: Swati Patel — https://swatipatel.netlify.app
